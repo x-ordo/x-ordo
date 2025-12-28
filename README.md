@@ -20,12 +20,44 @@
 ```typescript
 const prometheus = {
     role: ["Developer", "Entrepreneur"],
-    focus: ["AI/ML Solutions", "LLM Applications", "Business Innovation"],
-    interests: ["Ancient Wisdom", "Esoteric Knowledge", "Consciousness"],
-    philosophy: "Bridging the mystical with the technological",
-    currentlyBuilding: "AI-powered products that matter"
+    focus: ["AI/ML Solutions", "LLM Systems", "Quant & Automation", "B2B SaaS"],
+    interests: ["Systems", "Symbolic Thinking", "Ancient Wisdom"],
+    philosophy: "Bridging the mystical with the technological — respectfully, as metaphor",
+    currentlyBuilding: "Operational AI: agents + workflows + observability",
+    signature: {
+        // Kabbalah-inspired mental model (not doctrine): turn ambiguity into structure.
+        einSof: "Infinite possibility → finite systems",
+        treeOfLife: {
+            keter: "Vision (why)",
+            chokhmah: "Insight (what could be)",
+            binah: "Architecture (how it fits)",
+            chesed: "Shipping (momentum)",
+            gevurah: "Guardrails (risk)",
+            tiferet: "UX (balance)",
+            netzach: "Iteration (endurance)",
+            hod: "Observability (truth)",
+            yesod: "Pipelines (foundation)",
+            malkhut: "Production (reality)"
+        }
+    }
 };
 ```
+
+---
+
+## ✡️ Tree-of-Systems (Kabbalah-inspired)
+
+```text
+      Keter      → Vision / Strategy
+  Chokhmah Binah → Insight / Architecture
+ Chesed  Gevurah → Shipping / Risk controls
+     Tiferet     → Balance / UX
+ Netzach   Hod   → Iteration / Observability
+      Yesod      → Pipelines / Integration
+     Malkhut     → Production / Users
+```
+
+I build systems where the “mystical” is just the unknown—made measurable with logs, evals, and guardrails.
 
 ---
 
@@ -64,6 +96,7 @@ const prometheus = {
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-111827?style=for-the-badge&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
