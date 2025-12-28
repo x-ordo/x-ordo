@@ -22,42 +22,26 @@ const prometheus = {
     role: ["Developer", "Entrepreneur"],
     focus: ["AI/ML Solutions", "LLM Systems", "Quant & Automation", "B2B SaaS"],
     interests: ["Systems", "Symbolic Thinking", "Ancient Wisdom"],
-    philosophy: "Bridging the mystical with the technological — respectfully, as metaphor",
+    philosophy: "Turning ambiguity into reliable systems",
     currentlyBuilding: "Operational AI: agents + workflows + observability",
     signature: {
-        // Kabbalah-inspired mental model (not doctrine): turn ambiguity into structure.
-        einSof: "Infinite possibility → finite systems",
-        treeOfLife: {
-            keter: "Vision (why)",
-            chokhmah: "Insight (what could be)",
-            binah: "Architecture (how it fits)",
-            chesed: "Shipping (momentum)",
-            gevurah: "Guardrails (risk)",
-            tiferet: "UX (balance)",
-            netzach: "Iteration (endurance)",
-            hod: "Observability (truth)",
-            yesod: "Pipelines (foundation)",
-            malkhut: "Production (reality)"
-        }
+        // Systems thinking: make the unknown measurable and shippable.
+        unknownToSystem: "Ambiguity → constraints → production",
+        loop: [
+            "Vision (why)",
+            "Insight (what could be)",
+            "Architecture (how it fits)",
+            "Shipping (momentum)",
+            "Guardrails (risk)",
+            "Balance (UX)",
+            "Iteration (endurance)",
+            "Observability (truth)",
+            "Pipelines (integration)",
+            "Production (users)"
+        ]
     }
 };
 ```
-
----
-
-## ✡️ Tree-of-Systems (Kabbalah-inspired)
-
-```text
-      Keter      → Vision / Strategy
-  Chokhmah Binah → Insight / Architecture
- Chesed  Gevurah → Shipping / Risk controls
-     Tiferet     → Balance / UX
- Netzach   Hod   → Iteration / Observability
-      Yesod      → Pipelines / Integration
-     Malkhut     → Production / Users
-```
-
-I build systems where the “mystical” is just the unknown—made measurable with logs, evals, and guardrails.
 
 ---
 
