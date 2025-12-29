@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Prometheus-P&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Jed%20Park&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&random=false&width=600&lines=Developer+%26+Entrepreneur;Building+AI-Powered+Solutions;LLM+%7C+LangChain+%7C+RAG+Specialist" alt="Typing SVG" /></a>
@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Prometheus-P&style=for-the-badge&color=red" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=x-ordo&style=for-the-badge&color=red" alt="Profile Views"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 ## 🔥 About Me
 
 ```typescript
-const prometheus = {
+const jedPark = {
     role: ["Developer", "Entrepreneur"],
     focus: ["AI/ML Solutions", "LLM Systems", "Quant & Automation", "B2B SaaS"],
     interests: ["Systems", "Symbolic Thinking", "Ancient Wisdom"],
@@ -92,23 +92,23 @@ const prometheus = {
 
 <div align="center">
 
-<a href="https://github.com/Prometheus-P/careguide-ckd-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prometheus-P&repo=careguide-ckd-platform&theme=radical&hide_border=true" />
+<a href="https://github.com/x-ordo/careguide-ckd-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=careguide-ckd-platform&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Prometheus-P/tripkit-travel-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prometheus-P&repo=tripkit-travel-platform&theme=radical&hide_border=true" />
+<a href="https://github.com/x-ordo/tripkit-travel-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=tripkit-travel-platform&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Prometheus-P/interview-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prometheus-P&repo=interview-service&theme=radical&hide_border=true" />
+<a href="https://github.com/x-ordo/interview-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=interview-service&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Prometheus-P/satiachat-diet-coach">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prometheus-P&repo=satiachat-diet-coach&theme=radical&hide_border=true" />
+<a href="https://github.com/x-ordo/satiachat-diet-coach">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=satiachat-diet-coach&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Prometheus-P/study-assistant-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prometheus-P&repo=study-assistant-chatbot&theme=radical&hide_border=true" />
+<a href="https://github.com/x-ordo/study-assistant-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=study-assistant-chatbot&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Prometheus-P/coupang-keyword-radar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prometheus-P&repo=coupang-keyword-radar&theme=radical&hide_border=true" />
+<a href="https://github.com/x-ordo/coupang-keyword-radar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=coupang-keyword-radar&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -119,17 +119,17 @@ const prometheus = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prometheus-P&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prometheus-P&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=x-ordo&show_icons=true&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x-ordo&theme=radical&hide_border=true" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prometheus-P&layout=compact&theme=radical&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-ordo&layout=compact&theme=radical&hide_border=true" width="40%" />
 
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prometheus-P&theme=redical&hide_border=true&bg_color=141321" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=x-ordo&theme=redical&hide_border=true&bg_color=141321" width="98%"/>
 
 </div>
 
@@ -138,7 +138,7 @@ const prometheus = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prometheus-P&theme=radical&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=x-ordo&theme=radical&no-frame=true&no-bg=true&column=7" />
 </div>
 
 ---
@@ -148,7 +148,7 @@ const prometheus = {
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/parkdavid31@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkdavid31@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prometheus-P)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x-ordo)
 
 </div>
 

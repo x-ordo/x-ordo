@@ -1,8 +1,8 @@
-# Prometheus-P | Developer & Entrepreneur
+# Jed Park | Developer & Entrepreneur
 
 ## About Me
 
-안녕하세요, **Prometheus-P**입니다.
+안녕하세요, **Jed Park**입니다.
 
 AI/ML 기반 솔루션을 개발하는 개발자이자 사업가로서, 기술과 비즈니스의 교차점에서 가치를 창출하고 있습니다. 고대의 지혜와 현대 기술을 연결하는 것에 깊은 관심을 가지고 있으며, "신비로운 것과 기술적인 것의 다리가 되는 것"을 철학으로 삼고 있습니다.
 
@@ -62,7 +62,7 @@ AI/ML 기반 솔루션을 개발하는 개발자이자 사업가로서, 기술�
 ## Philosophy
 
 ```typescript
-const prometheus = {
+const jedPark = {
   role: ["Developer", "Entrepreneur"],
   focus: ["AI/ML Solutions", "LLM Applications", "Business Innovation"],
   interests: ["Ancient Wisdom", "Esoteric Knowledge", "Consciousness"],
@@ -126,7 +126,7 @@ const prometheus = {
 ## Contact
 
 - **Email**: parkdavid31@gmail.com
-- **GitHub**: [github.com/Prometheus-P](https://github.com/Prometheus-P)
+- **GitHub**: [github.com/x-ordo](https://github.com/x-ordo)
 
 ---
 
@@ -134,12 +134,12 @@ const prometheus = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prometheus-P&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-ordo&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prometheus-P&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-ordo&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-*"Bridging the mystical with the technological"* - Prometheus-P
+*"Bridging the mystical with the technological"* - Jed Park

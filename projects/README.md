@@ -324,4 +324,4 @@ SDD(Spec-Driven Development) + TDD를 구현하는 AI 지원 개발 프레임워
 
 ---
 
-*Prometheus-P | Developer & Entrepreneur*
+*Jed Park | Developer & Entrepreneur*
