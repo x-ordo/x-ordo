@@ -147,6 +147,7 @@ const jedPark = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=github&logoColor=black)](https://x-ordo.github.io)
 [![Gmail](https://img.shields.io/badge/parkdavid31@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkdavid31@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x-ordo)
 
