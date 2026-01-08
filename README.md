@@ -1,163 +1,153 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Jed%20Park&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&random=false&width=600&lines=Developer+%26+Entrepreneur;Building+AI-Powered+Solutions;LLM+%7C+LangChain+%7C+RAG+Specialist" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=x-ordo&style=for-the-badge&color=red" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=header&text=SYSTEM_READY&fontSize=50&fontColor=000&animation=fadeIn&fontAlignY=35&desc=Subject:%20Jed%20Park%20//%20Status:%20Online&descSize=20&descAlignY=60"/>
 
 </div>
 
----
+```bash
+> ACCESS_LEVEL: CLASSIFIED (LEVEL 5)
+> AUTHENTICATING... SUCCESS
+> DECRYPTING_PROFILE... 100%
 
-## 🔥 About Me
+> SUBJECT: Jed Park (x-ordo)
+> ROLE: Sovereign Hacker / Economic Engineer
+> MISSION: "Escape the Matrix. Build Better Systems."
+```
+
+## 📂 Subject Profile: The Sovereign Hacker
 
 ```typescript
 const jedPark = {
-    role: ["Developer", "Entrepreneur"],
-    focus: ["AI/ML Solutions", "LLM Systems", "Quant & Automation", "B2B SaaS"],
-    interests: ["Systems", "Symbolic Thinking", "Ancient Wisdom"],
-    philosophy: "Turning ambiguity into reliable systems",
-    currentlyBuilding: "Operational AI: agents + workflows + observability",
-    signature: {
-        // Systems thinking: make the unknown measurable and shippable.
-        unknownToSystem: "Ambiguity → constraints → production",
-        loop: [
-            "Vision (why)",
-            "Insight (what could be)",
-            "Architecture (how it fits)",
-            "Shipping (momentum)",
-            "Guardrails (risk)",
-            "Balance (UX)",
-            "Iteration (endurance)",
-            "Observability (truth)",
-            "Pipelines (integration)",
-            "Production (users)"
-        ]
-    }
+    codeName: "Sovereign Hacker",
+    specialty: ["System Architecture", "Business Logic Optimization"],
+    
+    // "Blue Pill" offers comfort. "Red Pill" offers truth (and profit).
+    choice: "Red Pill", 
+
+    philosophy: {
+        // Peter Thiel's 0 -> 1
+        strategy: "Avoid Competition. Create Monopolies.",
+        // Chinese Pragmatism
+        execution: "Ugly UI, Beautiful Margins." 
+    },
+
+    objective: "To build self-sustaining economic machines for partners."
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🕶️ The Philosophy (Declassified)
 
-<div align="center">
+> **"Reality is defined by cash flow, not by pitch decks."**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+We operate in a world of noise. I cut through it to find the signal (Value).
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A2D82?style=for-the-badge&logoColor=white)
-![Upstage](https://img.shields.io/badge/Upstage-111827?style=for-the-badge&logoColor=white)
-
-### Database & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PocketBase](https://img.shields.io/badge/PocketBase-111827?style=for-the-badge&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+1.  **Monopoly is Peace:** Competition erodes profits. I help build systems in "boring" niches where we can dominate quietly.
+2.  **Pragmatism over Vanity:** A complex dashboard that no one uses is waste. A simple script that saves 100 hours is art.
+3.  **The "Fixer" Mindset:** I don't just write code; I look for the broken parts of the business system—the inefficiencies—and fix them with automation.
+4.  **Sovereignty:** I work with autonomy to ensure your systems run without constant hand-holding.
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Mission Targets: High-Entropy Zones
 
-<div align="center">
+> **Objective:** Identify chaos in the market and turn it into order (and revenue).
+> *Status: Active Operations*
 
-<a href="https://github.com/x-ordo/careguide-ckd-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=careguide-ckd-platform&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/x-ordo/tripkit-travel-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=tripkit-travel-platform&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/x-ordo/interview-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=interview-service&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/x-ordo/satiachat-diet-coach">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=satiachat-diet-coach&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/x-ordo/study-assistant-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=study-assistant-chatbot&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/x-ordo/coupang-keyword-radar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-ordo&repo=coupang-keyword-radar&theme=radical&hide_border=true" />
-</a>
-
-</div>
+| Zone | The Chaos (Problem) | The Order (My Solution) |
+| :--- | :--- | :--- |
+| **Financial Services** | Intentionally complex & slow | **Simplify & Automate** (Arbitrage) |
+| **Regulatory Tech** | Manual compliance nightmares | **"Check-the-box" Robots** (Efficiency) |
+| **Digital Marketing** | "Guesswork" & wasted ad spend | **Data-Driven Attribution** (Truth) |
+| **Legacy Industries** | "We've always done it this way" | **Digital Transformation** (0 → 1) |
+| **Platform Economy** | High fees & locked gates | **Bypass & Direct Access** (Sovereignty) |
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 The Toolkit (Tech Stack)
 
-<div align="center">
+*authorized_tools_list.json*
 
-<img src="https://github-readme-stats.vercel.app/api?username=x-ordo&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=x-ordo&theme=radical&hide_border=true" width="49%" />
+### **Core Logic**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<br/>
+### **Artificial Intelligence**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-System-orange?style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-ordo&layout=compact&theme=radical&hide_border=true" width="40%" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=x-ordo&theme=redical&hide_border=true&bg_color=141321" width="98%"/>
-
-</div>
+### **Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## 💾 Operational Log: Mission Reports
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x-ordo&theme=radical&no-frame=true&no-bg=true&column=7" />
-</div>
+> *Extracts from the engineering database. Proven solutions to complex problems.*
+
+<details>
+<summary><b>📂 Operation: Chagok (Legal Tech Automation)</b></summary>
+<br>
+- <b>Mission:</b> Automate evidence processing for divorce lawyers.
+- <b>Tactic:</b> Deployed Dual-RAG pipeline (Legal Logic + Evidence Fact-Checking).
+- <b>Result:</b> 70% reduction in manual labor. "The lawyer's iron man suit."
+</details>
+
+<details>
+<summary><b>📂 Operation: NumnaRoad (Logistics Speedrun)</b></summary>
+<br>
+- <b>Mission:</b> Eliminate waiting time for travel data (eSIM).
+- <b>Tactic:</b> Fully automated n8n workflow + Multi-provider failover.
+- <b>Result:</b> <10s fulfillment. Zero human intervention needed.
+</details>
+
+<details>
+<summary><b>📂 Operation: Sentinel (Smart Contract Defense)</b></summary>
+<br>
+- <b>Mission:</b> Stop false alarms in security audits.
+- <b>Tactic:</b> Hybrid AI: Static Analysis tools filtered by LLM logic.
+- <b>Result:</b> 90% noise reduction. "Sleeping soundly at night."
+</details>
+
+<details>
+<summary><b>📂 Operation: CareGuide (Medical Intelligence)</b></summary>
+<br>
+- <b>Mission:</b> Cure "Dr. Google" misinformation for patients.
+- <b>Tactic:</b> Multi-agent RAG system grounded in 4,850+ medical papers.
+- <b>Result:</b> Trustworthy, verified health guidance system.
+</details>
+
+<details>
+<summary><b>📂 Operation: SalonMate (SMB Growth)</b></summary>
+<br>
+- <b>Mission:</b> Give small business owners a marketing team.
+- <b>Tactic:</b> AI-driven sentiment analysis & auto-reply bots.
+- <b>Result:</b> 90% time saved on reviews. "Ugly UI, Beautiful Margins."
+</details>
+
+<details>
+<summary><b>📂 Operation: ArbQuant (Market Arbitrage)</b></summary>
+<br>
+- <b>Mission:</b> Capture inefficient pricing between global markets.
+- <b>Tactic:</b> Gray Box Go system with strict Kelly Criterion risk management.
+- <b>Result:</b> Consistent daily alpha. Pure math, no emotion.
+</details>
+
+<details>
+<summary><b>📂 Operation: HwpBridge (Legacy Interop)</b></summary>
+<br>
+- <b>Mission:</b> Make AI read Korean government documents (HWP).
+- <b>Tactic:</b> Rust-based binary parser connected to Claude MCP.
+- <b>Result:</b> Bridged the gap between 1990s tech and 2020s AI.
+</details>
 
 ---
 
-## 📫 Contact
+## 📡 Establish Uplink
+
+*Secure channels are open for business inquiries.*
+
+- **Resume:** [View Professional Resume (KR)](./RESUME.md)
+- **Portfolio:** [x-ordo.github.io](https://x-ordo.github.io)
+- **Signal:** [parkdavid31@gmail.com](mailto:parkdavid31@gmail.com)
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=github&logoColor=black)](https://x-ordo.github.io)
-[![Gmail](https://img.shields.io/badge/parkdavid31@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkdavid31@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x-ordo)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer"/>
-
-</div>
